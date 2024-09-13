@@ -1,2 +1,2 @@
-11 09 $200
-12 09 $11 dolarws
+Msyze 1
+Msyze 2
